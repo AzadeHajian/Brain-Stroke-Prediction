@@ -49,7 +49,7 @@ The results from the various models and cross-validation methods are summarized 
 ## Usage
 1. **Clone the repository:**
    ```sh
-   git clone git@github.com:AzadeHajian/ML-Stroke-predection.git
+   git clone git@github.com:AzadeHajian/Brain-Stroke-Prediction.git
    
 
 
